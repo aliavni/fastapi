@@ -13,6 +13,7 @@ hide:
 
 ### Docs
 
+* 🍱 Update Drawio diagrams SVGs, single file per diagram, sans-serif font. PR [#13706](https://github.com/fastapi/fastapi/pull/13706) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update docs for "Help FastAPI", simplify and reduce "sponsor" section. PR [#13670](https://github.com/fastapi/fastapi/pull/13670) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Remove unnecessary bullet from docs. PR [#13641](https://github.com/fastapi/fastapi/pull/13641) by [@Adamowoc](https://github.com/Adamowoc).
 * ✏️ Fix syntax error in `docs/en/docs/tutorial/handling-errors.md`. PR [#13623](https://github.com/fastapi/fastapi/pull/13623) by [@gsheni](https://github.com/gsheni).
@@ -23,6 +24,18 @@ hide:
 
 ### Translations
 
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/query-params-str-validations.md` page. PR [#13546](https://github.com/fastapi/fastapi/pull/13546) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Add Russian translation for `docs/ru/docs/tutorial/cookie-param-models.md`. PR [#13616](https://github.com/fastapi/fastapi/pull/13616) by [@EgorOnishchuk](https://github.com/EgorOnishchuk).
+* 🌐 Add Korean translation for `docs/ko/docs/tutorial/extra-models.md`. PR [#13063](https://github.com/fastapi/fastapi/pull/13063) by [@timothy-jeong](https://github.com/timothy-jeong).
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/path-params-numeric-validations.md` page. PR [#13548](https://github.com/fastapi/fastapi/pull/13548) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/middleware.md` page. PR [#13520](https://github.com/fastapi/fastapi/pull/13520) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/background-tasks.md` page. PR [#13502](https://github.com/fastapi/fastapi/pull/13502) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/cors.md` page. PR [#13519](https://github.com/fastapi/fastapi/pull/13519) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Update Korean translation for `docs/ko/docs/advanced/events.md`. PR [#13487](https://github.com/fastapi/fastapi/pull/13487) by [@bom1215](https://github.com/bom1215).
+* 🌐 Add Ukrainian translation for `docs/uk/docs/tutorial/handling-errors.md` page. PR [#13420](https://github.com/fastapi/fastapi/pull/13420) by [@valentinDruzhinin](https://github.com/valentinDruzhinin).
+* 🌐 Add Russian translation for `docs/ru/docs/tutorial/request-form-models.md`. PR [#13552](https://github.com/fastapi/fastapi/pull/13552) by [@EgorOnishchuk](https://github.com/EgorOnishchuk).
+* 📝 Fix internal anchor link in Spanish deployment docs. PR [#13737](https://github.com/fastapi/fastapi/pull/13737) by [@fabianfalon](https://github.com/fabianfalon).
+* 🌐 Update Korean translation for `docs/ko/docs/virtual-environments.md`. PR [#13630](https://github.com/fastapi/fastapi/pull/13630) by [@sungchan1](https://github.com/sungchan1).
 * 🌐 Add Russian translation for `docs/ru/docs/tutorial/header-param-models.md`. PR [#13526](https://github.com/fastapi/fastapi/pull/13526) by [@minaton-ru](https://github.com/minaton-ru).
 * 🌐 Update Chinese translation for `docs/zh/docs/tutorial/index.md`. PR [#13374](https://github.com/fastapi/fastapi/pull/13374) by [@Zhongheng-Cheng](https://github.com/Zhongheng-Cheng).
 * 🌐 Update Chinese translation for `docs/zh/docs/deployment/manually.md`. PR [#13324](https://github.com/fastapi/fastapi/pull/13324) by [@Zhongheng-Cheng](https://github.com/Zhongheng-Cheng).
@@ -31,6 +44,11 @@ hide:
 
 ### Internal
 
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#13736](https://github.com/fastapi/fastapi/pull/13736) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
+* 🔧 Update sponsors: Add InterviewPal. PR [#13728](https://github.com/fastapi/fastapi/pull/13728) by [@tiangolo](https://github.com/tiangolo).
+* 🔧 Remove Google Analytics. PR [#13727](https://github.com/fastapi/fastapi/pull/13727) by [@tiangolo](https://github.com/tiangolo).
+* 🔧 Update sponsors: remove MongoDB. PR [#13725](https://github.com/fastapi/fastapi/pull/13725) by [@tiangolo](https://github.com/tiangolo).
+* ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#13711](https://github.com/fastapi/fastapi/pull/13711) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
 * 🔧 Update sponsors: add Subtotal. PR [#13701](https://github.com/fastapi/fastapi/pull/13701) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update sponsors: remove deepset / Haystack. PR [#13700](https://github.com/fastapi/fastapi/pull/13700) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ [pre-commit.ci] pre-commit autoupdate. PR [#13688](https://github.com/fastapi/fastapi/pull/13688) by [@pre-commit-ci[bot]](https://github.com/apps/pre-commit-ci).
